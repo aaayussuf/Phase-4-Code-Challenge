@@ -31,4 +31,5 @@ A Flask-based REST API for tracking superheroes and their powers, with full CRUD
 1. Clone the repository:
    ```bash
    git clone https://github.com/aaayussuf/Phase-4-Code-Challenge.git
-   cd superheroes-api
+   cd Phase-4-Code-Challenge
+   
